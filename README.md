@@ -1,2 +1,6 @@
 # PseudoC-
 A C-based Translator for Converting a form of Pseudocode into Executable C Code
+
+PseudoC is a C-based tool designed to translate partial pseudocode from an imaginary language called ml into executable C code. Developed as part of a the CITS2002 unit at University of Western Australia. PseudoC was a project that was designed to make programming more approachable, especially for those new to the C language. The project emerged from the need to simplify the coding process by enabling users to write high-level, intuitive pseudocode, focusing on logic rather than the complexities of C syntax.
+
+Over two weeks, I developed PseudoC with a focus on designing robust parsing logic, handling various syntax structures, and implementing error-checking mechanisms to ensure code accuracy and functionality. PseudoC bridges the gap between conceptual coding and real-world execution, allowing users to create functional code without in-depth knowledge of C. This project not only enhanced my skills in C programming, file management, and problem-solving but also provided valuable insights into compiler construction and language translation, making programming more accessible and engaging for all.
